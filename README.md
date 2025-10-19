@@ -80,9 +80,6 @@ To gain a complete, hands-on understanding of the **DevOps ecosystem**, includin
 
 ---
 
-## 📂 Repository Structure
-
-
 ---
 
 ## 📖 References
@@ -106,8 +103,7 @@ Learning DevOps hands-on 🌱 | Documenting my progress daily 💻
 ## 🌟 Connect With Me
 
 - GitHub: [@asimanandd](https://github.com/asimanandd)
-- LinkedIn: *(add later)*
-- Email: *(optional)*
+
 
 ---
 
