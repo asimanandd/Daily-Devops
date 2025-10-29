@@ -1,0 +1,6 @@
+mkdir devops_1			- CREATE DIRECTORY
+touch file1.txt			- CREATE FILES
+cp file1.txt backup.txt		- COPY FILES
+mv backup.txt newname.txt	- RENAME/MOVE FILE
+rm file1.txt			- REMOVE FILE
+rm -rf devops_1/		- DELETE DIRECTORY RECURSIVELY	

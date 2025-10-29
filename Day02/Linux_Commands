@@ -1,0 +1,9 @@
+We will see different types of Linux Commands in this
+
+pwd		- PRINT WORKING DIRECTORY
+ls		- LIST FILES
+ls -la		- LIST ALL THE FILES WITH DETAILS
+cd /path/to/dir	- CHANGE DIRECTORY
+cd ..		- GO BACK ONE DIRECTORY
+cd ~		- GO TO HOME DIRECTORY
+

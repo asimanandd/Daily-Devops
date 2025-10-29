@@ -1,0 +1,8 @@
+cat filename.txt		- SHOW FILE CONTENTS
+head -n 5 filename.txt		- SHOW FIRST 5 LINES
+tail -n 10 filename.txt		- SHOW LAST 10 LINES
+less filename.txt		- SCROLL THROUGH A FILE
+nano filename.txt 		- EDIT FILE (SIMPLE)
+vim filename.txt		- EDIT FILE (ADVANCED)
+
+

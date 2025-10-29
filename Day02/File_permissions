@@ -1,0 +1,4 @@
+ls -l 			- SHOWS FILE PERMISSIONS
+chmod 755 script.sh	- CHANGE PERMISSIONS (rwxr-xr-x)
+chown user:group file 	- CHANGE OWNERSHIP
+

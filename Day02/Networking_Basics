@@ -1,0 +1,5 @@
+ipconfig		- SHOW NETWORK INTERFACES
+ping google.com		- TEST CONNECTION
+netstat -tuln 		- SHOW ACTIVE PORTS
+curl https://google.com	- FETCH URL DATA
+wget https://file.url	- DOWNLOAD FILE

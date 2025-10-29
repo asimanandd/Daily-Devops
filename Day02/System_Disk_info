@@ -1,0 +1,6 @@
+df -h		- DISK SPACE
+du -sh*		- FOLDER SIZES
+free -m		- MEMORY USAGE 
+uname -a 	- SYSTEM INFO
+uptime		- HOW LONG SYSTEM HAS BEEN RUNNING
+
